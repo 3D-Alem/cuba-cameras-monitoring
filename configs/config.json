@@ -1,0 +1,9 @@
+{
+    "CUBA_URL": "<URL платформы CUBA IoT>",
+    "TB_GATEWAY_TOKEN": "<токен шлюза на платформе>",
+    "TB_TOTALS_DEVICE_NAME": "CAMERAS_TOTALS",
+    "TB_CLIENT_ID": "<ID клиента>",
+    "TB_DEVICE_PROFILE": "Camera",
+    "PING_COUNT": "4",
+    "PING_INTERVAL": "1 "
+}
